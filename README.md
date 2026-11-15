@@ -21,13 +21,56 @@ Vibe also has yt-dlp implemented to easily download songs from YouTube Music. It
 
 Vibe has a lot of controls dedicated to individual buttons presses. Controls also differ if you're on a menu or the Now Playing screen.
 
-#Main Menu
 
-| Select | Turn screen off/on |
-| Menu | Resume, Keep Playing in Background, Search songs, Settings, Quit |
-| A | Accept |
-| B | Back |
-| Y | Resume playback/Now Playing screen |
-| L/R | Switch between tabs |
-| Start | Random shuffle |
+*Main Menu*
+
+
+| Button | Action |
+| :--- | :--- |
+| **Select** | Turn screen off/on |
+| **Menu** | Resume, Keep Playing in Background, Search songs, Settings, Quit |
+| **A** | Accept |
+| **B** | Back |
+| **Y** | Resume playback / Now Playing screen |
+| **L / R** | Switch between tabs |
+| **Start** | Random shuffle |
+
+
+
+*Now Playing Screen*
+
+
+| Button | Action |
+| :--- | :--- |
+| **Select** | Turn screen off/on |
+| **Menu** | Resume, Equalizer, Edit Tags, Add to Playlist, Keep Playing in Background, Search songs, Settings, Quit |
+| **A** | Accept |
+| **B** | Back |
+| **Y** | Repeat |
+| **X** | Shuffle |
+| **L / R** | Skip Track |
+| **L2 / R2** | Change visualizer |
+| **Start** | Go to album of current song |
+| **D-Pad Left / Right** | Skip 10 seconds |
+
+
+
+*Keyboard*
+
+
+| Button | Action |
+| :--- | :--- |
+| **A** | Type |
+| **B** | Delete |
+| **Y** | Shift |
+| **L / R** | Move cursor |
+| **L2** | Close keyboard |
+| **Start** | Enter |
+
+
+An extra note is that you can delete created playlists by pressing X on it twice.
+
+
+
+
 
