@@ -70,6 +70,8 @@ Vibe has a lot of controls dedicated to individual buttons presses. Controls als
 
 An extra note is that you can delete created playlists by pressing X on it twice.
 
+**Important note: if you get audio stutters, turn wifi off.**
+
 
 
 
