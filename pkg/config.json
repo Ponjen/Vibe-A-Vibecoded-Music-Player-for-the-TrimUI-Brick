@@ -1,0 +1,7 @@
+{
+  "label": "Vibe",
+  "icon": "icon.png",
+  "iconsel": "icon.png",
+  "launch": "launch.sh",
+  "description": "Vibe - gapless music player, album browser and YouTube Music downloader"
+}
