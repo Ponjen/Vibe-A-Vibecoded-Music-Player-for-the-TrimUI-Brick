@@ -2,9 +2,11 @@
 
 <img width="3072" height="3072" alt="IMG_20261115_083144546~2" src="https://github.com/user-attachments/assets/7a64cdbf-db3a-43c1-baaf-3cd1a8f0a61e" />
 
+
 Vibe is entirely coded by Claude. I had it made as my own personal music player, as each one for the Brick was just missing something that another had. So I tried to combine everything I want in a player in one.
 
 https://github.com/user-attachments/assets/471cd5e1-43e2-4d10-832f-f32976406fb4
+
 
 **Vibe is Made for the TrimUI Brick**
 
@@ -14,10 +16,18 @@ Vibe comes with a bunch of pre-loaded themes. If you'd like to make your own, si
 
 Vibe also has yt-dlp implemented to easily download songs from YouTube Music. It's a bit jank, but it works. If metadata is messed up or not to your liking, there's a built-in tag editor. Songs are downloaded to /Music/Downloads.
 
+
 **Controls**
 
 Vibe has a lot of controls dedicated to individual buttons presses. Controls also differ if you're on a menu or the Now Playing screen.
 
-#Global
+#Main Menu
+
 | Select | Turn screen off/on |
+| Menu | Resume, Keep Playing in Background, Search songs, Settings, Quit |
+| A | Accept |
+| B | Back |
+| Y | Resume playback/Now Playing screen |
+| L/R | Switch between tabs |
+| Start | Random shuffle |
 
